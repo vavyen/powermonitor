@@ -16,3 +16,7 @@ insert here all the legal language, diclaimer, etc. I'm not liable for anything 
    - https://www.ebay.com/itm/Single-Phase-Energy-Meter-Digital-LCD-Single-phase-DIN-Rail-Electric-Meter/193704005846
    
   You'll need one rated to your local grid voltage and frequency, choose one with auxiliary circuit, with the lowest possible supply voltage range required (minimum 3V is perfect!), mine requires a supply voltage between 5V and 19V, so a voltage divider is needed to not kill the GPIO pins.
+  
+  #TODO:
+  -finish writing up the readme, add circuit diagram and software;
+  -try out the GPIO event_detected() function;
