@@ -7,7 +7,7 @@
 - raspberry pi zero w, or any raspi laying around on your bench...
 
 !!!WARNING!!! MAINS VOLTAGE IS DANGEROUS! DO YOUR OWN RESARCH BEFORE GOING FURTHER... HIRE A LICENSED ELECTRICIAN! 
-insert here all the legal language, diclaimer, etc. I'm not liable for anything and everything YOU are doing!
+insert here all the legal language, disclaimer, etc. I'm not liable for anything and everything YOU are doing!
 
 - Din rail mount electric meter, e.g. DDS238-1, DDS6619, 02-553/DIG - Adeleq, 004670-Legrand, etc.. Links for examples (non affiliate):
    - https://www.banggood.com/DDS238-1-230V-Rail-Type-Electronic-Type-Mini-Electricity-Meter-LCD-Display-p-1050470.html
